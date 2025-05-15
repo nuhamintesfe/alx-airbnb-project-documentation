@@ -1,5 +1,5 @@
 # Features of the Airbnb Clone
-![features-and-functionalities](./features.drawio.png)
+![Features Diagram](./Features.drawio.png)
 This shows the main parts of our system and how they work together.
 
 - Users can sign up, login, update profiles
